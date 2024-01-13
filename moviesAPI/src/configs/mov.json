@@ -1,0 +1,81 @@
+[{
+        "name": "salaar",
+        "director": "prasant neel",
+        "rating": 9.5,
+        "year": 2023,
+        "genre": "action"
+
+    },
+
+    {
+        "name": "pushpa",
+        "director": "yashraj",
+        "rating": 9.2,
+        "year": 2022,
+        "genre": "action"
+
+    },
+    {
+        "name": "bahubali",
+        "director": "s.s. rajamouli",
+        "rating": 9.4,
+        "year": 2015,
+        "genre": "action"
+
+    },
+    {
+        "name": "dangal",
+        "director": "yashraj",
+        "rating": 9.8,
+        "year": 2018,
+        "genre": "documentry"
+
+    },
+    {
+        "name": "jawaan",
+        "director": "atlee kumar",
+        "rating": 7.3,
+        "year": 2022,
+        "genre": "action"
+
+    },
+    {
+        "name": "tiger zinda hai",
+        "director": "david dhawan",
+        "rating": 8.2,
+        "year": 2019,
+        "genre": "action"
+
+    },
+    {
+        "name": "aadipurush",
+        "director": "david dhawan",
+        "rating": 7.4,
+        "year": 2023,
+        "genre": "drama"
+
+    }, {
+        "name": "superstar",
+        "director": "prasant neel",
+        "rating": 9.0,
+        "year": 2017,
+        "genre": "drama"
+
+    },
+    {
+        "name": "pathaan",
+        "director": "atlee kumar",
+        "rating": 8.8,
+        "year": 2021,
+        "genre": "action"
+
+    },
+    {
+        "name": "rrr",
+        "director": "s.s. rajamouli",
+        "rating": 9.3,
+        "year": 2020,
+        "genre": "action"
+
+    }
+]

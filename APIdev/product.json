@@ -1,0 +1,53 @@
+[{
+        "name": "sawan",
+        "age": 22,
+        "company": "oneplus",
+        "date": "",
+        "contact": 7909569277
+
+    },
+
+    {
+        "name": "pavan",
+        "age": 22,
+        "company": "samsung",
+        "contact": 7909569278
+
+    },
+    {
+        "name": "brajesh",
+        "age": 23,
+        "company": "redmi",
+        "contact": 7909705351
+
+    },
+    {
+        "name": "manav",
+        "age": 21,
+        "company": "realme",
+        "contact": 7909569279
+
+    },
+    {
+        "name": "arun",
+        "age": 23,
+        "company": "oppo",
+        "contact": 7909569280
+
+    },
+    {
+        "name": "yash",
+        "age": 20,
+        "company": "apple",
+        "contact": 7909569281
+
+    },
+    {
+        "name": "priyanshu",
+        "age": 18,
+        "company": "nothing",
+        "contact": 7909569277
+
+    }
+
+]
